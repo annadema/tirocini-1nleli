@@ -1,0 +1,8 @@
+{
+  "name": "tirocini",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "590d35c2"
+}
